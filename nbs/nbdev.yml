@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_gradio_tests"
+  site-url: "https://f-brockman.github.io/nbdev_gradio_tests"
+  description: "Trying to make a web app with gradio and nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/f-brockman/nbdev_gradio_tests"
